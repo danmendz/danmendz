@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/danmendz](https://github.com/danmendz)
 
-- 💬 Ask me about **php, html, css and java**
+- 💬 Ask me about **PHP, HTML, CSS and JAVA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
