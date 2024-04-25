@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from México</h3>
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="200" src="https://hackernoon.com/images/f2px36fy.gif"  />
 </div>
 
 - 🔭 I’m currently working on [Web Development](https://github.com/danmendz/Centro-Expo)
