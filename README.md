@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel Méndez</h1>
 <h3 align="center">A passionate developer from México</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danmendz&label=Profile%20views&color=0e75b6&style=flat" alt="danmendz" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danmendz" alt="danmendz" /></a> </p>
-
 - 🔭 I’m currently working on [Web Development](https://github.com/danmendz/Centro-Expo)
 
 - 🌱 I’m currently learning **backend frameworks and courses of frontend**
